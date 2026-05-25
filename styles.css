@@ -528,3 +528,9 @@ ul{list-style:none}
     .slide-text h1 { font-size: 1.2rem !important; }
     .slide-image svg, .slide-image img { width: 120px !important; }
 }
+
+.imgk{
+    width: 40%;
+    height: 40%;
+    border-radius: 25px;
+}
